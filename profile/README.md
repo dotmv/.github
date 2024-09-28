@@ -57,7 +57,7 @@ We believe in the power of community. Here's how you can get involved:
 - Twitter: [@wearedotmv](https://twitter.com/wearedotmv)
 - Instagram: [@wearedotmv](https://instagram.com/wearedotmv)
 - Facebook: [wearedotmv](https://facebook.com/wearedotmv)
-- YouTube: [wearedotmv](https://youtube.com/wearedotmv)
+- YouTube: [@wearedotmv](https://youtube.com/@wearedotmv)
 - Threads: [@wearedotmv](https://threads.net/@wearedotmv)
 - TikTok: [@wearedotmv](https://tiktok.com/@wearedotmv)
 
