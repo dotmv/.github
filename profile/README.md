@@ -31,6 +31,7 @@ Our umbrella domain `dotmv` is hosted at [weare.mv](https://weare.mv), with @wea
    - **[cdn.mv](https://cdn.mv)**: Content Delivery Network for fast and efficient distribution of static assets.
    - **[storage.mv](https://storage.mv)**: Additional storage solutions for various needs.
 4. **[analytics.mv](https://analytics.mv)**: Data analytics service for all our products.
+5. **[suggestions.mv](https://suggestions.mv)**: Suggestions engine for all our products.
 
 ## 🌟 Core Values
 
