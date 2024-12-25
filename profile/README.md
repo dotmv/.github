@@ -33,6 +33,22 @@ Our umbrella domain `dotmv` is hosted at [weare.mv](https://weare.mv), with @wea
 4. **[analytics.mv](https://analytics.mv)**: Data analytics service for all our products.
 5. **[suggestions.mv](https://suggestions.mv)**: Suggestions engine for all our products.
 
+## 👥 Account Structure
+
+Each entity in our ecosystem operates under a unified **dotmv Account/Business**, with product-specific roles:
+
+```
+dotmv Account/Business
+├── pay.mv: Merchant
+├── shop.mv: Seller
+├── rent.mv: Host
+├── explore.mv: Partner/Provider
+├── reach.mv: Facility
+└── help.mv: Organization
+```
+
+This structure enables seamless integration across our products while maintaining clear role distinctions for different services.
+
 ## 🌟 Core Values
 
 - Innovation: Pushing the boundaries of what's possible in the Maldivian tech landscape.
